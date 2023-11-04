@@ -33,6 +33,21 @@ h1 {
   padding-bottom: 32px;
 }
 
+h1 {
+  margin: 32px 0;
+  color: #fff;
+  font-size: 24px;
+}
+
+.delete-icon {
+  margin-right: 5px;
+  color: #fff;
+}
+
+.edit-icon {
+  color: #fff;
+}
+
 .App {
   text-align: center;
 }
